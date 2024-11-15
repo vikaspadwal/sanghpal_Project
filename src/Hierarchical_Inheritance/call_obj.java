@@ -3,6 +3,8 @@ package Hierarchical_Inheritance;
 public class call_obj {
 	
 	
+
+
 	public static void main(String[] args) {
 		
 		// First Son
